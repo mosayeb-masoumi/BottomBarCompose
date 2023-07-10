@@ -37,7 +37,7 @@ fun AppBottomNavigation (navController: NavController){
                         // Avoid multiple copies of the same destination on the back stack
                         launchSingleTop = true
                         // Restore state when navigating back to the home destination
-                        restoreState = true
+//                        restoreState = true
                     }
                 })
         }
